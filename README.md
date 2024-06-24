@@ -2,7 +2,7 @@
 Blind 75 problems
 
 # Array
-- [Two Sum](https://leetcode.com/problems/two-sum/)
+- [Two Sum](https://leetcode.com/problems/two-sum/) - [C# SOLUTION](https://github.com/nikhildoomra/blind75/blob/main/b01_LC1_two_sum.cs)
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
