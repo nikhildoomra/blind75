@@ -2,7 +2,7 @@
 Blind 75 problems
 
 # Array
-- [https://leetcode.com/problems/two-sum/] (Two Sum) 
+- <a href ="https://leetcode.com/problems/two-sum/]> (Two Sum) </a>
 - Best Time to Buy and Sell Stock
 - Contains Duplicate
 - Product of Array Except Self
