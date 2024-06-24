@@ -2,7 +2,7 @@
 Blind 75 problems
 
 # Array
-- Two Sum
+- [https://leetcode.com/problems/two-sum/](Two Sum) 
 - Best Time to Buy and Sell Stock
 - Contains Duplicate
 - Product of Array Except Self
@@ -95,3 +95,6 @@ Blind 75 problems
 - Merge K Sorted Lists
 - Top K Frequent Elements
 - Find Median from Data Stream
+
+
+Reference: https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
