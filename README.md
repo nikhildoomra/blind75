@@ -6,7 +6,7 @@ Blind 75 problems
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - [C# Solution](https://github.com/nikhildoomra/blind75/blob/main/b02_LC121_best_time_buy_sell_stock.cs)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - [C# Solution](https://github.com/nikhildoomra/blind75/blob/main/b03_LC217_contains_duplicate.cs) 
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - [C# Solution](https://github.com/nikhildoomra/blind75/blob/main/b04_LC238_product_except_itself.cs)
-- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - [C# Solution](https://github.com/nikhildoomra/blind75/blob/main/b05_LC53_maximum_subarray.cs)
 - [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
