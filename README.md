@@ -8,7 +8,7 @@ Blind 75 problems
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - [C# Solution](https://github.com/nikhildoomra/blind75/blob/main/b04_LC238_product_except_itself.cs)
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - [C# Solution](https://github.com/nikhildoomra/blind75/blob/main/b05_LC53_maximum_subarray.cs)
 - [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - [C# Solution](https://github.com/nikhildoomra/blind75/blob/main/b06_L152_max_prod_subarray.cs)
-- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - [C# Solution](https://github.com/nikhildoomra/blind75/blob/main/b07_L153_min_in_sorted_rotated_array.cs)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [3 Sum](https://leetcode.com/problems/3sum/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
