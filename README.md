@@ -98,3 +98,5 @@ Blind 75 problems
 
 
 Reference: https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
+
+[Design Gurus Solutions](https://www.designgurus.io/blind75)
