@@ -23,7 +23,7 @@ Blind 75 problems
 # Dynamic Programming
 16. Climbing Stairs
 1. Coin Change
-1. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - [C# Solution]
+1. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - [C# Solution](https://github.com/nikhildoomra/blind75/blob/main/b18_L300_longest_increasing_sequence.cs)
 1. Longest Common Subsequence
 1. Word Break Problem
 1. Combination Sum
